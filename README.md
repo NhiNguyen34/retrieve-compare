@@ -6,8 +6,8 @@ An information retrieval system comparing the performance of BM25, Cosine Simila
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/information-retrieval-system.git
-   cd information-retrieval-system
+   git clone https://github.com/NhiNguyen34/retrieve-compare.git
+   cd retrieve-compare
    ```
 
 2. Install the required libraries:
